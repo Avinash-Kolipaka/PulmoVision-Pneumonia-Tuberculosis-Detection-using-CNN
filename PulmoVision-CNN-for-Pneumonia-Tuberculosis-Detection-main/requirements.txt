@@ -1,0 +1,6 @@
+streamlit
+gdown
+pillow
+torch
+torchvision
+torchaudio
