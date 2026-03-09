@@ -4,11 +4,6 @@
 **PulmoVision** is a deep learning–based computer vision project designed to detect **Tuberculosis** and **Pneumonia** from **chest X-ray images**.  
 Using a **Convolutional Neural Network (CNN)**, the model classifies X-rays into three categories: **Normal, Pneumonia, and Tuberculosis**.  
 This project supports medical imaging research by providing an automated system for faster and more accurate preliminary diagnosis. 
-
-## 🌐 Live Demo  
-👉 Try the deployed web app here: [PulmoVision Web App](https://pulmovision--pneumonia-tuberculosis-detection.streamlit.app/)
-
-
 ---
 
 ## 📂 Dataset Choice  
